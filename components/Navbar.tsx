@@ -33,11 +33,11 @@ export default function Navbar() {
       <div>
         <Link href={"/"}>
           <h1 className="text-dark text-4xl font-bold tracking-tighter">
-            Tech News
+            Muzamil Blog
           </h1>
         </Link>
         <p className="text-sm">
-          Exploring Tomorrow&apos;s Innovations, <br /> One Byte at a Time.
+          Exploring some Fun and interesting Topics <br /> One Byte at a Time.
         </p>
       </div>
 
